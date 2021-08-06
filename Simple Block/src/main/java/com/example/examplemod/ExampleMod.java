@@ -1,6 +1,7 @@
 package com.example.examplemod;
 
 import com.example.examplemod.init.BlockInit;
+import com.example.examplemod.init.ItemInit;
 
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -16,5 +17,6 @@ public class ExampleMod
 	{
 		IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 		BlockInit.BLOCKS.register(modEventBus);
+		ItemInit.ITEMS.register(modEventBus);
 	}
 }
