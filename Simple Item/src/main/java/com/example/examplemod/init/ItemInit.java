@@ -1,7 +1,7 @@
 package com.example.examplemod.init;
 
 import com.example.examplemod.ExampleMod;
-import com.example.examplemod.init.item.SimpleItem;
+import com.example.examplemod.item.SimpleItem;
 
 import net.minecraft.world.item.Item;
 import net.minecraftforge.fmllegacy.RegistryObject;

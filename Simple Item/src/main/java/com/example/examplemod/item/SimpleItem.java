@@ -1,4 +1,4 @@
-package com.example.examplemod.init.item;
+package com.example.examplemod.item;
 
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
