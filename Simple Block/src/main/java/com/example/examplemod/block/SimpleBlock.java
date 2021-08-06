@@ -1,4 +1,4 @@
-package com.example.examplemod.init.block;
+package com.example.examplemod.block;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.material.Material;

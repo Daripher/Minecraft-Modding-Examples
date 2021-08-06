@@ -1,7 +1,7 @@
 package com.example.examplemod.init;
 
 import com.example.examplemod.ExampleMod;
-import com.example.examplemod.init.block.SimpleBlock;
+import com.example.examplemod.block.SimpleBlock;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.fml.common.Mod;
